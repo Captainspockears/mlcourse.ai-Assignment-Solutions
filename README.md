@@ -5,3 +5,6 @@ If any solution is wrong, kindly correct it. To do this:
 1. Fork this project
 2. Correct the code
 3. Ask for a pull request
+
+### Solutions
+1. [Assignment 1](assignment1_pandas_olympic-solution.ipynb)
